@@ -1,0 +1,51 @@
+#d1 {
+    background-color: black;
+    height: 25%;
+    width: 100%;
+}
+
+#fhead {
+    height: 50%;
+    text-align: center;
+    align-content: center;
+    vertical-align: middle;
+    color: snow;
+}
+
+#d2 {
+    background-color: darkblue;
+    position: relative;
+    height: 10%;
+    width: 100%;
+    text-align: justify;
+}
+
+#user,
+#pass {
+    border: 50px;
+    border-radius: 3px;
+}
+
+#login {
+    border: 10px;
+    border-radius: 2px;
+}
+
+a:link {
+    text-decoration: none;
+    padding-right: 20px;
+    text-align: right;
+}
+
+a:visited {
+    text-decoration: none;
+    text-decoration-color: firebrick;
+}
+
+a:hover {
+    text-decoration-color: lightgreen;
+}
+
+a:active {
+    color: darkgreen;
+}
