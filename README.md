@@ -7,5 +7,6 @@ Join The Dark Side.Get Encrypted!!!
 This is the Anonymous Forum for BPHC Mutual Support Group (that's just a front ;))
 
 ## Team
-* **Meghna** * - abcde
 
+* **Meghna** * - abcde
+* **Nikki** - budding developer :P
